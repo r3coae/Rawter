@@ -6,6 +6,10 @@
   <img src="assets/rawter.png" alt="rawter logo" width="128"/>
 </p>
 
+<p align="center">
+  <img src="assets/screenshot.png" alt="rawter main window — type a task, press Ctrl+Enter" width="700"/>
+</p>
+
 ---
 
 ## Why rawter?
