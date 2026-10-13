@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=rawter
+Comment=Route a task to the best AI tool
+Exec=rawter
+Icon=rawter
+Terminal=false
+Categories=Utility;
+StartupWMClass=rawter
